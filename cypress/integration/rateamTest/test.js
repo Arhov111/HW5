@@ -8,4 +8,3 @@ describe('rate.am link test', () => {
         cy.title().should('eq' ,'Հայաստանի Հանրապետության Կենտրոնական Բանկ');
     })
 })
-
